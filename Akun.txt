@@ -1,0 +1,9 @@
+Login User :
+
+    username = user
+    password = user
+
+login admin :
+    
+    username = admin
+    password = admin
