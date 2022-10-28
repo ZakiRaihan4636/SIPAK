@@ -1,5 +1,5 @@
 # SIPAK
 
-SIPAK singakatan dari Sistem Parkir
+SIPAK adalah singkatan dari Sistem Parkir
 
-Ini adalah project kami untuk menyelesaikan tugas akhir pemrograman web 1
+SIPAK Ini merupakan project kami untuk menyelesaikan tugas akhir pemrograman web 1
